@@ -351,6 +351,6 @@ By navigating to `http://localhost:8000/todo/docs/` in the browser we'll be able
 
 Here I have given you a good introduction to Django and how to create CRUD RESTful APIs with Django Rest Framework (DRF). There is much more to learn and do with Django, but I hope you feel confident delving in and playing around with Django yourself now.
 
-Go ahead and clone the repos [django_todo_api](link) to view the full source code of the project.
+Go ahead and clone the repos [django_todo_api](https://github.com/imnileshd/django_todo_api) to view the full source code of the project.
 
 Have fun building some new APIs!
