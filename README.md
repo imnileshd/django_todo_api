@@ -233,13 +233,13 @@ One step further is the `ModelViewSet`, which is an extension of the `viewsets` 
 
 A viewset that provides default methods for CRUD operations that can be mapped as below:
 
-| ENDPOINT          | METHOD      | ACTION      | DESCRIPTION       |
-| ----------------- | ----------- | ----------- | ----------------  |
-| todo/api/v1/todos | GET         | list()      | Get all tasks     |
-| todo/api/v1/todos | POST        | create()    | Create new task   |
-| todo/api/v1/:id   | GET         | retrive()   | Get task details  |
-| todo/api/v1/:id   | PUT         | update()    | Update task       |
-| todo/api/v1/:id   | DELETE      | delete()    | Delete task       |
+| ENDPOINT                | METHOD      | ACTION      | DESCRIPTION       |
+| ----------------------  | ----------- | ----------- | ----------------  |
+| todo/api/v1/todos       | GET         | list()      | Get all tasks     |
+| todo/api/v1/todos       | POST        | create()    | Create new task   |
+| todo/api/v1/todos/:id   | GET         | retrive()   | Get task details  |
+| todo/api/v1/todos/:id   | PUT         | update()    | Update task       |
+| todo/api/v1/todos/:id   | DELETE      | delete()    | Delete task       |
 
 ## Creating URL paths for our endpoints
 
