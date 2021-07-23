@@ -6,13 +6,17 @@ The reason I love Django Rest Framework (DRF) is because it elegantly handles da
 
 Here, we will create a fully working Todo CRUD (Create, Read, Update and Destroy) Django REST APIs using [Django](https://www.djangoproject.com/) and [Django rest framework](https://www.django-rest-framework.org/) (DRF).
 
+Django is a Python web framework that simplifies common practices in web development. Django is reliable and also has a vibrant ecosystem of stable libraries supporting common development needs.
+
+Django REST framework (DRF) is a powerful and flexible toolkit for rapidly building RESTful APIs based on Django models.
+
 ## Setting up Python 3 Environment
 
 To verify if Python is installed and configured correctly on your system, Open the terminal and type in the command `python --version` else you’ll need to install [Python](https://www.python.org/) 3.6+ on your system.
 
 ```bash
 $ python --version
-Python 3.8.5
+Python 3.7.6
 ```
 
 ## Creating the Todo project
