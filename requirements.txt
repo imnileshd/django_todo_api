@@ -2,7 +2,3 @@ Django
 djangorestframework
 django-cors-headers
 coreapi
-pyodbc
-drf_yasg
-pypika
-pandas
